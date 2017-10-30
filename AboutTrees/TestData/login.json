@@ -1,1 +1,8 @@
-
+{
+  "status": "100",
+  "message":"Login successfull!",
+  "info": {
+    "code": "1",
+    "message": "Please update your app"
+  }
+}
